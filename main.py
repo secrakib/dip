@@ -311,7 +311,7 @@ def export_all_images():
 
 # --- 8. FRONTEND UI ---
 
-st.title("🎨 Advanced Digital Image Processing Lab")
+st.title("🎨 Advanced Digital Image Processing System")
 st.markdown("**Professional image processing tool for DIP course** - Apply noise, filters, transformations, and morphological operations")
 
 # Sidebar Controls
